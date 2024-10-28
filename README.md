@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Artificial Intelligence and Data Science<br>👀 I’m interested in Full stack,Web Application.
-
+😎
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vishal_rs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-r-s-946572259/) 
